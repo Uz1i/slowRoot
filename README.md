@@ -1,7 +1,7 @@
 # slowRoot
 
 These are 2 algorithms that I've created that aim to find the square root of any
-number.
+number really slowly.
 
 # The first one (slowRoot_slow)
 
